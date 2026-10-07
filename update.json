@@ -1,8 +1,8 @@
 {
- "version": "1.0.1",
- "notes": "Check for updates Button Added\nBug Fixes",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.1/BitcoinFamilyBot.exe",
- "sha256": "6ecb80b12bea1f76072e9f1cbf2b2599f2bbe3825d2d36c1b607097bfe71bd29",
- "size": 29409464,
- "sig": "7bf94a991a17242fdb6d4f8791a30b723920e853b2dfa64651e724e8f822dda635126c93ed722da6976481f2abfd938e8c5cbfc0735594d9a40e2284c5ef040b"
+ "version": "1.0.2",
+ "notes": "Bug Fixes",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.2/BitcoinFamilyBot.exe",
+ "sha256": "dd037a0f88241bcde039d45b676809feb9dd8bfdfbd2cd638fb21e5c7bfd632f",
+ "size": 29410640,
+ "sig": "59d037d13fde804a8c1beee35196867b64c2c2a242e535a4451995135f40ca5789452e93c75812f1965dc9bd5652022e3e2afbf6475c7167512123b58b71d704"
 }
