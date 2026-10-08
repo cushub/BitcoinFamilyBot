@@ -1,8 +1,8 @@
 {
- "version": "1.0.7",
- "notes": "added discord webhook to see bot stats",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.7/BitcoinFamilyBot.exe",
- "sha256": "e4e00a7ddeb8b935fcee99029a3e78914643d2e35a7a6509d61671358a90b1ec",
- "size": 29423727,
- "sig": "a934913cbef616b08d4cf31565fb8b426dd5d2699ef13be7e6e0dcf472afb6e7994978ff580148fa8d35a95394c79c9c3100288421151c267fde1d33f328d60d"
+ "version": "1.0.9",
+ "notes": "",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.9/BitcoinFamilyBot.exe",
+ "sha256": "3b36cf5059d89180d445c2715590f35311a37b466a078190fb89c88170534235",
+ "size": 29431275,
+ "sig": "3eb2cc61d203cbc9013791577382578b1ebba5a22123cf96f741c61e6188b8aba5fff716887d21e009d564380abcb66623070f095aafbf2d87b489f308b7d505"
 }
