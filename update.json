@@ -1,8 +1,8 @@
 {
- "version": "1.0.16",
- "notes": "Added 1 Hour keys to purchase",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.16/BitcoinFamilyBot.exe",
- "sha256": "8c8b365982a401e563b0f24ec4f0367b73c2c11de881f471b274c4c39e5165b4",
- "size": 31334171,
- "sig": "2e7045f2cc326403713a554d07f7adfcef7eb6a9506a24e64c44624fd5f4c2dbb06b4f5e0ff2cef6da49e06ec359976d38105c661b06ed2b93ec53a98a412c0b"
+ "version": "1.0.17",
+ "notes": "Bug Fixes",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.17/BitcoinFamilyBot.exe",
+ "sha256": "71aada03844d40da19e4d43af22c71fc4921815b53051cc98591a4fb811757e3",
+ "size": 31336193,
+ "sig": "9605072c753c7b49f1884cd289b418781af355585c205a71a047f585b37eb68092ba8ce88233acd42cf293ff4b6189aa2a291408a87aa09abba7513161224c01"
 }
