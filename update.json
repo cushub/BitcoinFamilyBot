@@ -1,8 +1,8 @@
 {
- "version": "1.0.12",
- "notes": "Full UI Overhall AND Bug FIxes",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.12/BitcoinFamilyBot.exe",
- "sha256": "32784a7dee170a24e19a204c179a5d8c7bcd7f0ccfa96c9be608e7d37a0b5607",
- "size": 29442936,
- "sig": "0b5e9dd8ec0f44833704b94823695c3724887b65eb92bbcb18f852786b7e7e31d467350bad98fb21c4d6fa663c03314472c0c820780fef972f7a1c534bbdf70b"
+ "version": "1.0.13",
+ "notes": "",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.13/BitcoinFamilyBot.exe",
+ "sha256": "c8706fd9b4df14bb30afd5e4c0e0f90857d9d446e280df3fface4d4dd85ff9eb",
+ "size": 31321366,
+ "sig": "b1d57cc5da1b098d3951be5aa5375951bffe8fca58b2a67d0ace806ddd021fcadedb59c521d4e18217cbf1a5d214b3b50fb4b780391966c059f4e16f7b212f05"
 }
