@@ -1,8 +1,8 @@
 {
- "version": "1.0.20",
- "notes": "- Works on any screen size (720p up to 4K and beyond)\n- Reads the game correctly with Night light, colour filters, HDR and darker screens\n- Stops with clear steps if Roblox is set to another language\n- Clear fix-it message if Windows can't read English text\n- Finds your Roblox account when the game is opened from the browser\n- 1-hour trial keys (timer starts when you first sign in)\n- Never gives family stamina below your keep amount\n- No wasted trips to the Jobs page, faster crew checks\n- Recogn",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.20/BitcoinFamilyBot.exe",
- "sha256": "8d91194b535eaee407900fed146ca739185e90892f34d87a7e6ab05b5eca68c2",
- "size": 31343754,
- "sig": "6ccc198382ea30d79074f7de319c992e76de36fee2ea5b6571787fec43d776cd1f6e63c2eddde72adccb08f75160ab0ebda94f9ec9d42be4e25e965795dcab0d"
+ "version": "1.0.21",
+ "notes": "",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.21/BitcoinFamilyBot.exe",
+ "sha256": "2e2234a2fae563cd02a951c31e5410c3a0ff60b3bd35e403933dc9f482cf1c9a",
+ "size": 31348177,
+ "sig": "f270d7b532922b07de20ed6782c1f3d5584ce192e32340d4aa19a662e0cf3819c237ff2806d0b7fb9a62d062e042211dc9ef33f0bce2093da8eadcfec78cf40f"
 }
