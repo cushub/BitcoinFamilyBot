@@ -1,8 +1,8 @@
 {
- "version": "1.0.27",
- "notes": "Updated for new safehouse",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.27/BitcoinFamilyBot.exe",
- "sha256": "6156b6262b9843c8ac6efdd8535bff47e4f08a2167fb73723add9f67111b6807",
- "size": 31363567,
- "sig": "e4ce5c74bc42875e9e51d3a5c4e0f5291575496faf273d392771e8d1b21a84fdf27407559195dd363730c73f74154762fec26abeb1ee5e0c6dd5272eb2f25e06"
+ "version": "1.0.28",
+ "notes": "",
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.28/BitcoinFamilyBot.exe",
+ "sha256": "619524727cbc42dc1e1398191bc9ef00578159eb2836c6f47023830b00387013",
+ "size": 31368622,
+ "sig": "b22120fbcdb19e21aa08a999173a597b7aae1bc985121da65025c2b473fc3dcc5334b603631a189d332f146ee1bb6927adb66f7f6ebc5cf999ee937447678a01"
 }
