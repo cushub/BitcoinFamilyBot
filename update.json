@@ -1,8 +1,8 @@
 {
- "version": "1.0.33",
+ "version": "1.0.34",
  "notes": "",
- "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.33/BitcoinFamilyBot.exe",
- "sha256": "324189e107843d1aed280d8a9ea822f0258d7961d26195f5b4a9318011beb44e",
- "size": 31374258,
- "sig": "0c0722b64045bcefe31e94748d36d3e6ee34842abe1f0a849d68c301c4637440fe2b606738e071d58625d14ae9a5f65a4b0c01ce46b0fd5440879030b602220d"
+ "exe_url": "https://github.com/cushub/BitcoinFamilyBot/releases/download/v1.0.34/BitcoinFamilyBot.exe",
+ "sha256": "023b2578bfff47c05a6c69ff7802698630189ef9aad9f71169777db4e31703b7",
+ "size": 31378843,
+ "sig": "42b0a838c8047db10a2cff0194a01d153224417638b68eb70c8a650b2073b74225277f941b45f3245e65f695e8e160b3f1ccffe3dcf1793f766f1764d8308f01"
 }
